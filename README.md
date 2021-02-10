@@ -55,4 +55,6 @@ fun()
 ```
    printf("kits");
    scanf("%d",kits);
-```   
+```
+## links
+.[google].(https://www.google.com/)
