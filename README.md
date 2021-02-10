@@ -87,3 +87,6 @@ fun()
 
 ## insreting images
 ![shiv](https://github.com/SaiShivani4/markdownsyntax-day2/blob/master/allu.jpg)
+
+## inserting vedios
+[![zyan](https://img.youtube.com/vi/NAo38Q9c4xA/0.jpg)].(https://www.youtube.com/watch?v=NAo38Q9c4xA)
