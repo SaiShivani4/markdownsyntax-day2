@@ -84,3 +84,6 @@ fun()
 - git commit -m "message"
 - git push remotename branchname
 - git pull remotename branchname
+
+## insreting images
+![shiv](https://github.com/SaiShivani4/markdownsyntax-day2/blob/master/allu.jpg)
