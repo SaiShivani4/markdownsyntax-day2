@@ -64,3 +64,23 @@ fun()
 
 ## add college website link
 .[college].(https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+
+## git commands
+- git init
+- git status
+- git branch
+- git add filename
+- git remote
+- git remote -v
+- git clone "repo url"
+- git remote add remotenme "repolink"
+- git log
+- git log --one line
+- git revert filename
+- git reset filename
+- git rm filename
+- git config user.name "username"
+- git config user.email "useremail"
+- git commit -m "message"
+- git push remotename branchname
+- git pull remotename branchname
