@@ -36,8 +36,8 @@ sdfghjk
 5. mech
 ## unordred list
 - ece
-      * eceA
-      * eceB
+       * eceA
+       * eceB
 - eee
       
       + eeeA
