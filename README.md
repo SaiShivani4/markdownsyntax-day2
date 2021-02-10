@@ -61,3 +61,6 @@ fun()
 
 ## add gmail link
 [gmail](https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1)
+
+## add college website link
+.[college].(https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
