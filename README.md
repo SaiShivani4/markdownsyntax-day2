@@ -58,3 +58,6 @@ fun()
 ```
 ## links
 .[google].(https://www.google.com/)
+
+## add gmail link
+[gmail](https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1)
