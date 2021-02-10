@@ -35,9 +35,9 @@ sdfghjk
 4. civil
 5. mech
 ## unordred list
-- ece
-       * eceA
-       * eceB
+- ece 
+   * eceA
+   * eceB
 - eee
       
       + eeeA
