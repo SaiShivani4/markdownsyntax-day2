@@ -51,3 +51,8 @@ def fun():
 `
 fun()
 `
+## another code
+```
+   printf("kits");
+   scanf("%d",kits);
+```   
